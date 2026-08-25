@@ -24,6 +24,7 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://mobde-mgqno76.public.builtwithrocket.new'),
   title: 'Mobde — Recurring Income for Egyptian Creators',
   description:
     'Mobde helps Egyptian creators, coaches, educators, and businesses build recurring income from their audience. Join the early-access waitlist.',
